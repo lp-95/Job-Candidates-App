@@ -18,9 +18,9 @@ Description:
    service layer (contains the buisness logic of application) and database.
  - Application contains JUnit tests of the service and controller layers.
  - Application supports Swagger for simpler way to testing RESTful APIs.
- - Application contains the validation of all requests on the Fornt Controller
+ - Application contains validation of all requests on the Fornt Controller
    and database layer.
- - Code has been writed using Lombok Plug-in to avoid writing of constructors,
+ - Code has been writed using Lombok Plug-in to avoid writing constructors,
    getters, setters...
  - Application contains Resolver to allows exceptions handling
 
